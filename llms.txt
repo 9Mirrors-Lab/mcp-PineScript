@@ -1,0 +1,12 @@
+This repo contains a curated list of Pine Script strategies and indicators from the original ArunKBhaskar repo.
+
+Each script is stored under /TradingViewScripts/
+
+Key Files:
+- SuperTrend.psc – Trend-following strategy with ATR
+- RSI-Divergence.psc – Detects bullish/bearish divergence
+- VWAP-Bands.psc – Anchored VWAP zone indicator
+- EMA-Crossover.psc – Basic entry/exit signals based on moving average cross
+- MACD-Alerts.psc – Momentum-based confirmation with visual alerts
+
+These files can be pasted into TradingView’s Pine Script editor and customized.
